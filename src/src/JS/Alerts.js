@@ -13,7 +13,7 @@ var my_success = (titl,if_reload=true) => {
     })
 }
 
-//asd
+
 
 var are_you_sure = async (text,id,func) => {
     Swal.fire({
