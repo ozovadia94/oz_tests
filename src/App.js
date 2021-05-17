@@ -23,7 +23,7 @@ class App extends Component {
     this.checkRole = this.checkAuth.bind(this);
   }
   state = {
-    login: null,
+    login1: null,
   }
 
   componentDidMount() {
