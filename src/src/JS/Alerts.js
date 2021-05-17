@@ -13,8 +13,6 @@ var my_success = (titl,if_reload=true) => {
     })
 }
 
-
-
 var are_you_sure = async (text,id,func) => {
     Swal.fire({
         title: 'שים לב',
